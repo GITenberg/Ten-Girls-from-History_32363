@@ -1,0 +1,33 @@
+_repo: Ten-Girls-from-History_32363
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32363-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Sweetser, Kate Dickinson
+    deathdate: 1939
+    gutenberg_agent_id: '3311'
+    url: http://www.gutenberg.org/2009/agents/3311
+description: ''
+gutenberg_issued: '2010-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32363'
+  lccn: '12027182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcsh 'Girls -- Biography'
+- !lcc 'CT'
+tableOfContents: 'Jeanne d''Arc: the maid of France -- Victoria: a girl queen of England
+  -- Sally Wister: a girl of the American Revolution -- Cofachiqui: an Indian princess
+  of historic legend -- Jenny Lind: the Swedish nightingale -- Eliza Lucas: a girl
+  planter of the 15th century -- Lady Jane Grey: the nine days queen -- "Gentle Annie":
+  a daughter of the regiment -- Madeleine de Verchères: the heroine of Castle Dangerous
+  -- Adrienne de Lafayette: a young patriot''s wife.'
+title: Ten Girls from History
+url: http://www.gutenberg.org/ebooks/32363
